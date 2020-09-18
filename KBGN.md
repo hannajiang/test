@@ -23,5 +23,6 @@
 ![](./images/KBGN06.png)    
 **知识检索：**  
 ![](./images/KBGN07.png)   
+![](http://chart.googleapis.com/chart?cht=tx&chl= $M_F$)
 ## 启发
 对Visual Dialogue这个任务不是很理解，可能需要去看下基础的论文。
